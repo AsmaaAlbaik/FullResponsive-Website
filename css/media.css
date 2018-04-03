@@ -1,0 +1,443 @@
+/* Start media Query */
+
+/*this style from 0 screen to mobile screen*/
+
+@media (max-width:768px){
+
+  .navbar-nav{
+    text-align: left;
+    margin-top: -42px;
+  }
+  .all-content .right-content{
+    top: 14px
+  }
+  .all-content .left-content{ 
+     top: -65px;
+  }
+  header .info{
+    top: 100px;
+
+  }
+
+  header .info h2{
+    text-align: center;
+    font-size: 20px !important;
+    margin-bottom: 18px;
+  }
+  header .rate{
+    text-align: center;
+  }
+  .all-content .left-content .teacher-msg{
+    margin-top: 13px;
+  }
+  .all-content .left-content .content-lecture .box-1 span{text-align: center}
+
+  .all-content .left-content .content-lecture .all-box ul{
+    text-align: center;
+  }
+
+  .all-content .left-content .content-lecture .box-1 {
+    text-align: center;
+  }
+  .all-content .left-content .content-lecture .all-box .box-2 {
+    margin-right: 20%;
+  }
+
+  .material-content .tabs{
+    top: 0;
+  }
+
+  .material-content .tabs .announCements-box{
+    position: relative;
+    top: -54px;
+  }
+  .material-content .about {
+        margin-top: -33px;
+
+  }
+
+  .all-content .right-content h6
+  {
+    cursor: pointer;
+  }
+
+  .all-content .right-content .info-data .list-info{
+    display: none;
+  }
+
+  
+
+/*__________________  page2 __________________________*/
+
+.material-content .tabs .material-container .section1-box{
+   margin-top: 20px;
+}
+
+.ask-box .ask {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.material-content .tabs #tab3-content  .opt .checkbox-box{
+  display: block;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-left: 0;
+}
+
+.material-content .tabs .ask-box{
+  padding-bottom: 20px;
+}
+
+.opt .select-box{
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+
+.material-content .image-box {
+  display: none;
+}
+.material-content .tabs #tab3-content .all-questions .num-response{
+  text-align: center;
+  position: static
+}
+
+.material-content .tabs #tab3-content .all-questions span{
+  display: block;
+  margin: auto;
+}
+.all-questions .myQue .user-img{
+  margin-right: -15px;
+}
+
+.who-evaluate .member .details {
+      margin-bottom: 5px;
+}
+
+.who-evaluate .member .text{
+  text-align: center;
+}
+.who-evaluate .member .text .lead{
+  margin-top: 30px;
+}
+
+.put-rate h2{
+  font-size: 18px;
+}
+.put-rate .btns button{
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.put-rate .btns .stars{
+  text-align: center
+}
+
+.put-rate .text .input-group .form-control:last-child{
+  margin-bottom: 5px;
+}
+.put-rate .details i{
+  position: static;
+  margin-bottom: 10px;
+}
+
+.who-evaluate .member .details,
+.put-rate .details
+{
+  border-left: none;
+  padding-left: 0;
+
+}
+.material-content .tabs #tab3-content .all-questions .name-of{
+  display: block
+}
+.material-content .tabs .material-container ul{
+  float: none;
+}
+.ask-box .form-block {
+  margin-bottom: 10px
+}
+
+.material-content .tabs #tab3-content .opt select{
+  width: 70%;
+}
+
+.material-content .tabs .current-evaluate .current-stars h2{
+  text-align: center
+}
+.rateYo_putRate{
+  margin-left: auto;
+  margin-right: auto
+}
+.rateYo{
+   margin-left: auto;
+  margin-right: auto
+}
+
+.material-content .tabs #tab3-content .all-questions .question_response .info{
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+/*_______________________________ page 3  __________________________________________*/
+
+.mwady .it-mine .tabs .nav-tabs
+{
+    display: block;
+}
+
+
+.navbar.secends .navbar-toggle {
+    float: right;
+    margin-left: auto;
+    margin-top: 7px;
+    margin-right: 10%;
+
+
+}
+
+header .navbar-nav>li>.dropdown-menu{
+  display: none;
+}
+.secends.navbar-brand{
+    height: 35px;
+    padding-top: 0;
+    margin-top: 0px;
+    line-height: 0px;
+    margin-right: 20%
+}
+
+.secends.container-fluid>.navbar-collapse,
+.secends.container-fluid>.navbar-header,
+.secends.container>.navbar-collapse,
+.secends.container>.navbar-header{
+  padding-top: 40px
+}
+header .badge{
+      top: 4px;
+    left: 25px;
+    right: auto;
+}
+header .persone ~ .badge{
+      top: -5px;
+    left: 43px;
+    right: auto;
+}
+
+.mwady a.remark {
+  display: block;
+}
+.navbar-inverse .navbar-brand{
+  margin-right: 20%;
+}
+     
+
+.mwady .tab-content .tab1 .all-media{
+  height: 300px
+}
+
+}
+/*from small to media screen*/
+@media (min-width:768px) and (max-width:991px) {
+
+  .all-content .left-content .content-lecture .all-box .box-2 {
+    margin-right: 0;
+  }
+  .all-content .right-content{
+    top: 14px
+  }
+
+  /*_________page 2 _____________*/
+
+.material-content .tabs .announCements-box{
+    margin-top: 26%;
+}
+
+
+  .material-content .tabs{
+  top: 0
+}
+
+.put-rate .details i{
+  margin-top: 50px;
+
+}
+}
+
+/* End media Query */
+@media (min-width:991px) and (max-width:1171px)  {
+
+  header .info{
+    top: 10px;
+    right: -82px;
+  }
+
+ 
+  .all-content .right-content{
+    top: -268px;
+  }
+  .all-content .left-content .content-lecture .all-box .box-2 {
+    margin-right: 27px;
+  }
+
+
+  /*_____________page 2 _________________*/
+
+  .material-content .tabs .announCements-box{
+    margin-top: 25%
+  }
+
+  .material-content .tabs{
+    top: 0
+  }
+  .put-rate .text .input-group .form-control:last-child{
+    margin-bottom: 10px;
+  }
+  .put-rate .details i{
+    margin-top: 50px;
+
+  }
+  .material-content .tabs .nav-tabs>li>a{
+  margin: 0 10px;
+  }
+  .material-content .tabs .nav-tabs>li>a::after{
+    left: 0px;
+  }
+}
+
+@media (max-width: 360px) { 
+
+  .mwady .it-mine .nav>li>a{
+    padding: 10px 0px 10px 4px;
+    margin: 5px -10px;
+    font-size: 9px;
+}
+  .mwady{
+    top: -106px
+  }
+}
+@media (min-width: 361px) and (max-width:  440px) {
+
+  .mwady .it-mine .nav>li>a{
+    padding: 10px 0px 10px 4px;
+    margin: 5px -10px;
+    font-size: 10px;
+}
+  .mwady{
+    top: -108px
+  }
+}
+
+@media (min-width: 441px) and (max-width:  491px) {
+  .mwady .it-mine .nav>li>a{
+    padding: 10px 0px 10px 8px;
+    margin: 2px -10px;
+    font-size: 12px;
+  }
+    .mwady{
+    top: -108px
+  }
+}
+
+@media (min-width: 492px) and (max-width: 579px) {
+  .mwady .it-mine .nav>li>a{
+    padding: 10px 0 10px 10px;
+    margin: -1px -10px;
+    font-size: 14px;
+  }
+    .mwady{
+    top: -108px
+  }
+}
+@media (min-width: 580px) and (max-width: 620px) {
+
+  .mwady .it-mine .nav>li>a{
+
+    font-size: 16px;
+    padding: 10px ;
+    margin: -1px -10px;
+  }
+    .mwady{
+    top: -110px
+  }
+}
+
+@media (min-width: 621px) and (max-width: 990px) {
+  .mwady .it-mine .nav>li>a{
+
+    font-size: 18px;
+    padding: 10px ;
+    margin: -1px -10px;
+  }
+    .mwady{
+    top: -113px
+  }
+}
+
+  /* @media (min-width: 763px) and (max-width: 990px) {
+  .mwady .it-mine .nav>li>a{
+    font-size: 18px;
+  }
+  .mwady{
+    top: -114px
+  }
+} */
+
+
+
+
+@media (max-width: 575.98px) { 
+
+  .material-content .tabs .nav-tabs>li{
+    width: 100%
+  }
+  .material-content .tabs .nav-tabs>li>a::after{
+    display: none
+  }
+  .tabs-icon{
+    display: block;
+  } 
+  .tabs .nav-tabs{
+    display: none;
+  }
+.material-content .tabs .nav-tabs .dropdown-menu{
+  width: 100%;
+}
+
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .material-content .tabs .nav-tabs>li{
+    width: 50%;
+    height: 40px;
+  }
+.material-content .tabs .nav-tabs>li:nth-child(even)>a::after{
+  display: none
+
+}
+
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+
+  header .info{
+    top: 0;
+    right: -82px;
+
+  }
+
+  .material-content .tabs{
+    top: -257px
+
+  }
+
+  .material-content .image-box {
+    height: 258px;
+    top: -276px;
+}
+
+}

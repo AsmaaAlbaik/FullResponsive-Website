@@ -1,0 +1,237 @@
+.all-content .right-content .info-data,
+.all-content .right-content .box-below,
+.material-content .tabs .nav-tabs ,
+.material-content .tabs .announCements-box,
+.material-content .tabs .recentQuestions-box,
+.material-content .tabs .material-container .section-box,
+.material-content .tabs .material-container .section-content,
+.material-content .tabs .ask-box,
+.material-content .tabs #tab3-content .all-questions .question_response,
+.all-questions .myQue,
+.material-content .tabs #tab4-content ,
+.put-rate .text .stars i,
+.over .fixed-menu ,
+.mwady  .video-card{
+  background-color: #fff;
+}
+.all-content .right-content .subscripe-box a,
+.all-evaluation .eval-box .progress-bar-warning,
+.current-stars i,
+.who-evaluate .member .text .stars i,
+.put-rate .text .stars i:hover,
+.all-evaluation .eval-box .progress .progress-bar-warning ,
+header .badge,
+header .persone ~ .badge,
+.fa-angle-right:hover ,
+.fa-angle-left:hover,
+.put-rate .btns button{
+  background-color: #ffb607;
+}
+.mwady  .video-card .progress{
+  background-color: #c9cbce;
+
+}
+
+.material-content,
+.all-questions .post-question .btns .btn,
+.all-evaluation .eval-box .progress-bar,
+.current-stars,
+.who-evaluate,
+.put-rate,
+.tabs-icon
+{
+  background: #eee
+}
+
+.who-evaluate .member .details i,
+.put-rate .details i{
+  background: #ddd
+}
+.all-content .right-content .free-box a:hover,
+.material-content .tabs .nav-tabs>li>a::after ,
+header .navbar-nav>li>.dropdown-menu,
+.mwady  .video-card iframe{
+  background-color: #222;
+}
+.fixed-menu .media{
+  background: #f2f3f5;
+
+}
+.mwady  .video-card .progress-bar {
+  background-color: #00738e;
+
+}
+
+
+.all-content .right-content .list-info  span ,
+.material-content .tabs .announCements-box a,
+.material-content .tabs .announCements-box .content .lead,
+.material-content .tabs #tab1-content .recentQuestions-box p,
+.material-content .tabs .material-container .section-box h6 ,
+.material-content .tabs .material-container .section-content .lead a,
+.material-content .tabs .material-container .section-content .time,
+.material-content .tabs #tab3-content .all-questions  .question_response .info p,
+.material-content .tabs .material-container .section-content .lead,
+  .fixed-menu .media .media-right .persone,
+  .fixed-menu  ul li a{
+  color: #515864;
+}
+
+.mwady .video-card  .video-details {
+  color: #7b7b7b;
+
+}
+.all-content .right-content .price,
+.material-content .tabs .announCements-box .content h2 ,
+.material-content .about h3 ,
+.material-content .tabs .material-container .section-box h4,
+.all-questions .post-question .btns .btn,
+.all-questions .myQue .user-que p,
+.all-questions .myQue .user-que h6{
+  color: #333;
+}
+.all-content .right-content .subscripe-box a,
+.all-content .right-content .free-box a,
+.material-content .tabs .nav-tabs>li>a ,
+.current-stars .icon .fa-user ,
+header .badge,
+.put-rate .text .stars i,
+.over .fixed-menu,
+.mwady .video-card  .video-header{
+  color:#222;
+}
+
+
+.material-content .tabs .dropdown-menu .gray,
+.material-content .tabs .material-container .section-content .cercle i,
+.all-evaluation .eval-box span,
+.fa-angle-right:hover ,
+.fa-angle-left:hover
+{
+  color: #ddd;
+
+}
+
+.navbar .navbar-brand,
+.all-content .right-content .img-box p,
+.navbar-default .navbar-nav > li > a,
+.all-content .right-content .img-box i,
+.all-content .right-content .free-box a:hover,
+header .info h2 ,
+header .info-title .num1 ,
+header .info .info-title .num2,
+header .info .rate .rate-num,
+header .info .last-date,
+.current-stars i,
+.who-evaluate .member .text .stars i,
+.who-evaluate .member .details i,
+.put-rate .details i,
+.put-rate .text .stars i:hover,
+.mwady .it-mine h1,
+.mwady .it-mine .nav-tabs>li>a,
+.mwady .it-mine .nav-tabs>li.active>a,
+.mwady .it-mine .nav-tabs>li.active>a:focus,
+.mwady .it-mine .nav-tabs>li.active>a:hover,
+header .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-text,
+header .dropdown-menu>li>a  {
+  color: #fff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+header .persone ~ .badge,
+.mwady  .input-group  .input-group-btn i,
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus,
+.fa-angle-right ,
+.fa-angle-left
+{
+  color: #ffb607;
+}
+.material-content .about {
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+}
+
+
+.material-content .image-box
+{
+    border: 2px solid #ddd;
+}
+.material-content .tabs .ask-box,
+.material-content .tabs .announCements-box,
+.material-content .tabs .recentQuestions-box ,
+.material-content .tabs #tab3-content  .opt select,
+.all-questions .post-question textarea,
+.all-evaluation .eval-box,
+.current-stars,
+.who-evaluate ,
+.material-content .tabs .material-container .section-box,
+.material-content .tabs .material-container .section-content,
+.material-content .tabs .material-container .section-content .fa-caret-left,
+.material-content .tabs .material-container .section-content .fa-bolt,
+.put-rate,
+.put-rate .text .stars i,
+.over .fixed-menu,
+.mwady  .video-card
+{
+  border: 1px solid #ddd;
+}
+
+.who-evaluate hr{
+  border-top: 2px solid #ddd;
+}
+.who-evaluate .member .details,
+.put-rate .details,
+.modal .modal-content .modal-body .mytabs li {
+  border-left: 2px solid #ddd;
+}
+
+.material-content .tabs  #tab1-content .recentQuestions-box p span,
+.material-content .tabs #tab3-content .all-questions .name-of,
+.all-questions .post-question .btns .btn,
+.fixed-menu .media .media-right .persone{
+  border: 1px solid #515864;
+}
+
+.all-content .right-content .subscripe-box a,
+.all-content .right-content .free-box a,
+.mwady  .form-control,
+.fa-angle-right ,
+.fa-angle-left{
+  border:1px solid #ffb607;
+}
+.modal .modal-content .modal-body .mytabs li.active {
+  border:2px solid #ffb607;
+
+}
+header .navbar .persone{
+  border: 1px solid #fff;
+}
+.mwady .it-mine .nav-tabs>li>a:hover,
+.mwady .it-mine .nav-tabs>li.active>a,
+.mwady .it-mine .nav-tabs>li.active>a:focus,
+.mwady .it-mine .nav-tabs>li.active>a:hover{
+  border-bottom: 5px solid #ccc;
+
+}
+
+.material-content .tabs .nav>li>a:focus,
+.material-content .tabs .nav>li>a:hover,
+.nav-tabs>li.active>a:active,
+.material-content .nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover{
+  border-bottom: 4px solid #ffb607;
+}
+
+header .info {
+  border-right: 3px solid #ffb607;
+}
+
+
+
